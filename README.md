@@ -12,6 +12,10 @@
 ![Static Badge](https://img.shields.io/badge/mission-Making_your_live_easier-blue)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 <br/>
+![GitHub stars](https://img.shields.io/github/stars/SkyStoreOFL/lua-template)
+![GitHub issues](https://img.shields.io/github/issues/SkyStoreOFL/lua-template)
+![GitHub forks](https://img.shields.io/github/forks/SkyStoreOFL/lua-template)
+![GitHub PRs](https://img.shields.io/github/issues-pr/SkyStoreOFL/lua-template)
 <a href="https://discord.gg/EuWWfcAMWF" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/1092133908583288933/widget.png"></a>
 
 </div>
@@ -35,7 +39,7 @@ This template contains the fundamental files needed for a basic FiveM script set
 ## 📁 File Structure
 
 ```
-FiveM-Script-Template/
+lua-template/
 ├── client/
 │   └── main.lua
 ├── server/
@@ -65,3 +69,7 @@ FiveM-Script-Template/
 ## 🤝 Contributing
 
 Feel free to fork this project, make improvements, and submit pull requests. Contributions are welcome!
+
+<a href="https://github.com/SkyStoreOFL/lua-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SkyStoreOFL/lua-template" />
+</a>
