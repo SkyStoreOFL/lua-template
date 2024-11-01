@@ -35,7 +35,7 @@ This template contains the fundamental files needed for a basic FiveM script set
 ## 📁 File Structure
 
 ```
-FiveM-Script-Template/
+lua-template/
 ├── client/
 │   └── main.lua
 ├── server/
